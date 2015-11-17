@@ -22,3 +22,8 @@ curl https://gist.githubusercontent.com/kikuchy/7d0a52299707005ecbd3/raw/3ac45a2
 
 * `master` ブランチに `users4.csv` をコミットして origin に push してください
 * 余計なファイルを含んではいけません
+
+
+## 模範解答
+
+[模範解答を表示する](https://github.com/mixi-git-challenge/git-challenge-is-order-an-adding/blob/solution/README.md)
